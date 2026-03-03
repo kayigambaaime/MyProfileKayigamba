@@ -1,0 +1,184 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "AfriLingo - African Language Learning Platform",
+      "description": "Educational platform with Spring Boot backend. Integrated CI/CD pipeline with GitHub Actions for automated deployment, containerized with Docker, and hosted on AWS EC2 with Nginx reverse proxy.",
+      "image": "/images/project-thumbnail.png",
+      "technologies": ["Java", "Spring Boot", "Docker", "GitHub Actions", "AWS EC2", "Nginx"],
+      "category": "Educational Platform",
+      "link": "https://github.com/ingabireol/afrilingo-server",
+      "demo": "",
+      "featured": true,
+      "highlights": [
+        "CI/CD pipeline with GitHub Actions",
+        "Containerized with Docker",
+        "Deployed on AWS EC2",
+        "Nginx reverse proxy configuration",
+        "Educational language learning features"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "TalentRadar - Performance Management Platform",
+      "description": "Microservices-based system with Spring Boot and RabbitMQ. Deployed using Docker Compose, automated infrastructure setup with Terraform, and monitoring via Grafana.",
+      "image": "/images/project-thumbnail.png",
+      "technologies": ["Java", "Spring Boot", "RabbitMQ", "Docker Compose", "Terraform", "Grafana", "Prometheus"],
+      "category": "Enterprise Application",
+      "link": "https://github.com/AmaliTech-Training-Academy/talentradar-assessment-service-rw",
+      "demo": "",
+      "featured": true,
+      "highlights": [
+        "Microservices architecture",
+        "Message-driven with RabbitMQ",
+        "Infrastructure as Code with Terraform",
+        "Real-time monitoring with Grafana",
+        "Container orchestration with Docker Compose"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Restaurant Management System",
+      "description": "Microservices-based system using Spring Boot, OpenFeign, and RabbitMQ, deployed with Docker containers and secured with SSL certificates.",
+      "image": "/images/project-thumbnail.png",
+      "technologies": ["Java", "Spring Boot", "OpenFeign", "RabbitMQ", "Docker", "SSL"],
+      "category": "Business Application",
+      "link": "https://github.com/ingabireol/ByteBitesRestaurant.git",
+      "demo": "",
+      "featured": true,
+      "highlights": [
+        "Microservices architecture with OpenFeign",
+        "Asynchronous messaging with RabbitMQ",
+        "Secure communication with SSL",
+        "Containerized deployment",
+        "RESTful API design"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Transport Management System",
+      "description": "Application for managing vehicle schedules, routes, drivers, and customer bookings.",
+      "image": "/images/project-thumbnail.png",
+      "technologies": ["Java", "Spring Boot", "PostgreSQL"],
+      "category": "Business Application",
+      "link": "https://github.com/ingabireol/transport-management-system.git",
+      "demo": "",
+      "featured": false,
+      "highlights": [
+        "Vehicle schedule management",
+        "Route optimization",
+        "Driver assignment and tracking",
+        "Customer booking system",
+        "Database-driven architecture"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Online Furniture Web App",
+      "description": "Full-stack e-commerce web application for browsing, ordering, and managing furniture products online. Features a responsive UI designed with Bootstrap and Thymeleaf, secure role-based authentication, and real-time inventory CRUD operations.",
+      "image": "/images/project-thumbnail.png",
+      "technologies": ["Java", "Spring Boot", "Thymeleaf", "Bootstrap", "MySQL", "Hibernate", "Spring Data JPA"],
+      "category": "Full-Stack Web App",
+      "link": "https://github.com/kayigamba/online-furniture-app",
+      "demo": "",
+      "featured": true,
+      "highlights": [
+        "Responsive UI with Bootstrap and Thymeleaf",
+        "Secure role-based authentication",
+        "REST APIs for products, orders, and user registration",
+        "Real-time inventory CRUD operations",
+        "Database management with MySQL and JPA"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "AY Manager System",
+      "description": "Academic year management system designed for educational institutions to manage academic sessions, term settings, and access control. Admin panel UX focused on clarity and ease of use for administrators.",
+      "image": "/images/project-thumbnail.png",
+      "technologies": ["Java", "Spring Boot", "JSP/Servlets", "MySQL", "Spring MVC", "Tomcat", "JavaMailSender"],
+      "category": "Enterprise Application",
+      "link": "https://github.com/kayigamba/ay-manager-system",
+      "demo": "",
+      "featured": true,
+      "highlights": [
+        "Admin panel UX designed for academic session control",
+        "Backend modules for term configuration and date-based validations",
+        "Start/end date management with access control per session",
+        "Email notification integration with JavaMailSender",
+        "Spring MVC architecture with Tomcat deployment"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Smart Expense Tracker",
+      "description": "Web-based personal finance system for managing and tracking expenses. Users can record income, categorize spending, view detailed financial reports, and receive email alerts with monthly summaries for better budgeting.",
+      "image": "/images/project-thumbnail.png",
+      "technologies": ["Java", "Spring Boot", "JSP/Servlets", "MySQL", "Spring MVC", "Tomcat", "JavaMailSender"],
+      "category": "Business Application",
+      "link": "https://github.com/kayigamba/smart-expense-tracker",
+      "demo": "",
+      "featured": true,
+      "highlights": [
+        "Dashboard UI designed for expense tracking and budgeting",
+        "Backend modules for expense recording and data validation",
+        "Admin panel to manage budgets and spending limits",
+        "Automated email alerts and monthly summaries",
+        "Detailed financial reports for user decision-making"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Furniture App — UI/UX Design",
+      "description": "Complete UI/UX design for the Online Furniture Web App. Includes user research, wireframes, and high-fidelity mockups for product browsing, cart, and checkout flows. Designed with a focus on clean navigation and conversion-friendly layouts.",
+      "image": "/images/project-thumbnail.png",
+      "technologies": ["Figma", "Adobe XD", "Wireframing", "Prototyping", "Responsive Design"],
+      "category": "UI/UX Design",
+      "link": "",
+      "demo": "",
+      "featured": true,
+      "highlights": [
+        "User research and persona definition",
+        "Low-fidelity wireframes for all key screens",
+        "High-fidelity mockups in Figma",
+        "Interactive prototype for user testing",
+        "Responsive design for mobile and desktop"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Expense Tracker — Dashboard UI Design",
+      "description": "UI/UX design for the Smart Expense Tracker dashboard. Focused on making financial data easy to read and act on with clear data visualizations and intuitive navigation.",
+      "image": "/images/project-thumbnail.png",
+      "technologies": ["Figma", "Adobe XD", "Dashboard Design", "Data Visualization", "Wireframing"],
+      "category": "UI/UX Design",
+      "link": "",
+      "demo": "",
+      "featured": false,
+      "highlights": [
+        "Dashboard layout designed for financial clarity",
+        "Data visualization components for spending reports",
+        "Admin panel wireframes and mockups",
+        "User flow mapping for income and expense recording",
+        "Clean, minimal interface for everyday use"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "AY Manager — Admin Panel UI Design",
+      "description": "UI/UX design for the Academic Year Manager admin panel. Designed intuitive layouts for managing academic sessions, term dates, and user access.",
+      "image": "/images/project-thumbnail.png",
+      "technologies": ["Figma", "Canva", "Wireframing", "Prototyping", "User Research"],
+      "category": "UI/UX Design",
+      "link": "",
+      "demo": "",
+      "featured": false,
+      "highlights": [
+        "Admin panel wireframes for session and term management",
+        "User flow for academic calendar configuration",
+        "Simplified layouts for non-technical users",
+        "Prototyped access control and permission screens",
+        "Designed with accessibility and clarity in mind"
+      ]
+    }
+  ]
+}

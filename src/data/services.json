@@ -1,0 +1,152 @@
+{
+  "services": [
+    {
+      "id": "micro",
+      "name": "Micro Project",
+      "price": 500,
+      "currency": "$",
+      "duration": "1-2 weeks",
+      "description": "Perfect for small-scale projects and landing pages",
+      "features": [
+        "Single page or landing page",
+        "Responsive design",
+        "Basic animations",
+        "Contact form integration",
+        "SEO optimization",
+        "2 rounds of revisions",
+        "1 month post-launch support"
+      ],
+      "ideal_for": [
+        "Personal portfolios",
+        "Landing pages",
+        "Single-page websites",
+        "Simple business sites"
+      ],
+      "technologies": ["HTML", "CSS", "JavaScript", "Spring Boot"],
+      "delivery": "7-14 days",
+      "popular": false
+    },
+    {
+      "id": "small",
+      "name": "Small Project",
+      "price": 1000,
+      "currency": "$",
+      "duration": "2-4 weeks",
+      "description": "Ideal for multi-page websites with advanced features",
+      "features": [
+        "Up to 5 pages",
+        "Custom animations",
+        "CMS integration",
+        "Database setup (MySQL/PostgreSQL)",
+        "API development",
+        "Authentication system",
+        "Admin dashboard",
+        "3 rounds of revisions",
+        "2 months post-launch support",
+        "Performance optimization"
+      ],
+      "ideal_for": [
+        "Small business websites",
+        "Blogs with CMS",
+        "Portfolio with admin panel",
+        "Simple e-commerce stores"
+      ],
+      "technologies": ["Java", "Spring Boot", "MySQL", "Thymeleaf", "Bootstrap"],
+      "delivery": "14-30 days",
+      "popular": true
+    },
+    {
+      "id": "medium",
+      "name": "Medium Project",
+      "price": 1500,
+      "currency": "$",
+      "duration": "1-2 months",
+      "description": "Comprehensive solution for complex applications",
+      "features": [
+        "Up to 10 pages",
+        "Complex database architecture",
+        "RESTful API development",
+        "Third-party integrations (Payment, Email, etc.)",
+        "Advanced authentication (OAuth, JWT)",
+        "Real-time features (WebSocket)",
+        "Comprehensive admin dashboard",
+        "Analytics integration",
+        "5 rounds of revisions",
+        "3 months post-launch support",
+        "Performance & security optimization",
+        "Documentation"
+      ],
+      "ideal_for": [
+        "E-commerce platforms",
+        "SaaS applications",
+        "Complex web applications",
+        "Enterprise solutions"
+      ],
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "Node.js",
+        "JavaScript",
+        "REST APIs",
+        "JavaMailSender"
+      ],
+      "delivery": "30-60 days",
+      "popular": false
+    }
+  ],
+  "addons": [
+    {
+      "name": "Additional Page",
+      "price": 150,
+      "description": "Add extra pages to your project"
+    },
+    {
+      "name": "Advanced Animation",
+      "price": 200,
+      "description": "Custom 3D animations or complex interactions"
+    },
+    {
+      "name": "Payment Integration",
+      "price": 300,
+      "description": "Stripe, PayPal, or other payment gateway"
+    },
+    {
+      "name": "Priority Support",
+      "price": 500,
+      "description": "6 months of priority support and maintenance"
+    }
+  ],
+  "process": [
+    {
+      "step": 1,
+      "title": "Discovery & Planning",
+      "description": "We discuss your requirements, goals, and vision for the project.",
+      "duration": "1-3 days"
+    },
+    {
+      "step": 2,
+      "title": "Design & Prototyping",
+      "description": "Creating wireframes and design mockups for your approval.",
+      "duration": "3-7 days"
+    },
+    {
+      "step": 3,
+      "title": "Development",
+      "description": "Building your project with clean code and best practices.",
+      "duration": "Varies by package"
+    },
+    {
+      "step": 4,
+      "title": "Testing & Revisions",
+      "description": "Thorough testing and implementing your feedback.",
+      "duration": "2-5 days"
+    },
+    {
+      "step": 5,
+      "title": "Deployment & Launch",
+      "description": "Deploying to production and ensuring everything works perfectly.",
+      "duration": "1-2 days"
+    }
+  ]
+}

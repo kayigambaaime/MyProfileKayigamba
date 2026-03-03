@@ -1,0 +1,33 @@
+{
+  "hero": {
+    "badge": "Software Engineer & UI/UX Designer",
+    "title": "Building <span>scalable systems</span> & beautiful interfaces",
+    "description": "Software Engineer and UI/UX Designer based in Kigali, Rwanda. Expertise in Java, Spring Boot, full-stack development, and user-centered design — turning complex problems into elegant, scalable solutions.",
+    "profileImage": "/images/kayigamba-picture.png",
+    "buttons": [
+      {
+        "text": "View My Work",
+        "variant": "primary",
+        "action": "scrollToProjects"
+      },
+      {
+        "text": "Contact Me",
+        "variant": "outline",
+        "action": "scrollToContact"
+      }
+    ]
+  },
+  "personal": {
+    "name": "Kayigamba Dukunde Aime",
+    "title": "Software Engineer & UI/UX Designer",
+    "email": "kayigambaaimeduk@gmail.com",
+    "location": "Kigali, Rwanda",
+    "phone": "+250-783682962",
+    "bio": "Software Engineer and UI/UX Designer specializing in Java, Spring Boot, full-stack web development, and user-centered design. Experienced in building scalable applications, responsive interfaces, and database-driven systems. Passionate about creating software that is both technically solid and delightful to use.",
+    "social": {
+      "github": "https://github.com/kayigamba",
+      "linkedin": "https://www.linkedin.com/in/kayigamba-dukunde-aime/",
+      "readcv": "https://read.cv/kayigamba"
+    }
+  }
+}

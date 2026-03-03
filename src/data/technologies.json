@@ -1,0 +1,38 @@
+{
+  "techStack": {
+    "primary": ["Java", "Spring Boot", "PostgreSQL", "MySQL", "Figma"],
+    "languages": [
+      { "name": "Java", "icon": "java", "proficiency": 92, "category": "Language" },
+      { "name": "JavaScript", "icon": "javascript", "proficiency": 80, "category": "Language" },
+      { "name": "C#", "icon": "csharp", "proficiency": 78, "category": "Language" },
+      { "name": "Python", "icon": "python", "proficiency": 72, "category": "Language" },
+      { "name": "SQL / PL-SQL", "icon": "sql", "proficiency": 85, "category": "Language" },
+      { "name": "HTML & CSS", "icon": "html", "proficiency": 88, "category": "Language" }
+    ],
+    "backend": [
+      { "name": "Spring Boot", "icon": "spring", "proficiency": 90, "category": "Framework" },
+      { "name": "Node.js", "icon": "nodejs", "proficiency": 75, "category": "Framework" },
+      { "name": "Spring MVC", "icon": "spring", "proficiency": 85, "category": "Framework" },
+      { "name": "REST API Design", "icon": "api", "proficiency": 88, "category": "Framework" }
+    ],
+    "databases": [
+      { "name": "PostgreSQL", "icon": "postgresql", "proficiency": 85, "category": "Database" },
+      { "name": "MySQL", "icon": "mysql", "proficiency": 88, "category": "Database" },
+      { "name": "SQL Server", "icon": "sqlserver", "proficiency": 78, "category": "Database" }
+    ],
+    "design": [
+      { "name": "Figma", "icon": "figma", "proficiency": 78, "category": "UI/UX Design" },
+      { "name": "Adobe XD", "icon": "adobexd", "proficiency": 72, "category": "UI/UX Design" },
+      { "name": "Adobe Photoshop", "icon": "photoshop", "proficiency": 75, "category": "Design Tool" },
+      { "name": "Canva", "icon": "canva", "proficiency": 85, "category": "Design Tool" },
+      { "name": "Wireframing & Prototyping", "icon": "figma", "proficiency": 78, "category": "UI/UX Design" },
+      { "name": "Responsive Design", "icon": "css", "proficiency": 85, "category": "UI/UX Design" }
+    ],
+    "tools": [
+      { "name": "Git", "icon": "git", "proficiency": 88 },
+      { "name": "Linux", "icon": "linux", "proficiency": 82 },
+      { "name": "VS Code", "icon": "vscode", "proficiency": 90 },
+      { "name": "Tomcat", "icon": "tomcat", "proficiency": 80 }
+    ]
+  }
+}
